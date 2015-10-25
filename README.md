@@ -10,7 +10,7 @@ RSS feed generator for walls users, groups or public pages from http://vk.com.
 
 ## Usage
 
-Send response to ``vk-rss-feed.php`` like that:
+Send request to ``vk-rss-feed.php`` like that:
 
 ```code
 GET http://your-site.com/vk-rss-feed.php?domain={id}&count={count}
