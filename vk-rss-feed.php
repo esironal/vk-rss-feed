@@ -9,7 +9,7 @@ include 'classes/FeedWriter/Feed.php';
 include 'classes/FeedWriter/RSS2.php';
 
 // Set timezone
-date_default_timezone_set('UTC');
+date_default_timezone_set('Europe/Moscow');
 
 // Set FeedWriter namespace
 use \classes\FeedWriter\RSS2;
