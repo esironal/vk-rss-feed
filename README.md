@@ -4,7 +4,7 @@ RSS feed generator for walls users, groups or public pages from http://vk.com.
 
 ## Install
 
-* Download FeedWriter from [mibe/FeedWriter](https://github.com/mibe/FeedWriter) repo and 
+* Download FeedWriter from [mibe/FeedWriter](https://github.com/mibe/FeedWriter) repo;
 * Place all files to your server, ex. ``http://your-site.com/classes/FeedWriter/``;
 * Download [vk-rss-feed](https://github.com/enjoyiacm/vk-rss-feed/archive/master.zip) PHP file and place to server, ex. ``http://your-site.com/vk-rss-feed.php``.
 
